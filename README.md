@@ -36,8 +36,8 @@ URLSession – Fetching data from a remote API
 
 ## 🔹 Clone the repository
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/inwchamp1337/ScenicView.git
+cd ScenicView
 ```
 ## 🔹 Install dependencies via CocoaPods
 ```bash
