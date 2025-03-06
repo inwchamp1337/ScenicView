@@ -1,20 +1,28 @@
 📸 ScenicView
 
+## 🎥 Demo
+
+
+![ezgif](ezgif.gif)
+
+
 ## 📌 About
 
 A beautifully designed photo gallery app built with UIKit, powered by SDWebImage for efficient image loading, and fetching real-time photo data from an API.
 
 ## ✨ Features
 
-🖼 Dynamic Photo Gallery – Fetches stunning landscape and nature images from an API.
+* 🖼 Dynamic Photo Gallery – Fetches stunning landscape and nature images from an API.
 
-❤️ Like & Favorite – Show appreciation for your favorite images.
+* ❤️ Like & Favorite – Show appreciation for your favorite images.
 
-⚡ Fast Image Loading – Uses SDWebImage for smooth scrolling and caching.
+* ⚡ Fast Image Loading – Uses SDWebImage for smooth scrolling and caching.
 
-🌍 Real-time API Data – Displays updated content dynamically from a remote server.
+* 🔄 Pull to Refresh – Instantly reload new content with a simple swipe gesture.
 
-📱 Modern UIKit Design – A clean and intuitive interface built with UIKit.
+* 🌍 Real-time API Data – Displays updated content dynamically from a remote server.
+
+* 📱 Modern UIKit Design – A clean and intuitive interface built with UIKit.
 
 ## 🛠 Tech Stack
 
